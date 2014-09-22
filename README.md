@@ -1,4 +1,4 @@
-noapi
+NoAPI
 =====
 
-noapi looks to change conversation on building out APIs.
+NoAPI looks to change the conversation on creating, using, and testing APIs.
